@@ -22,7 +22,8 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 [Using Python to Access Web Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-network-data)| University of Michigan | 4 weeks | 4-6 hours/week | self-paced | Python Data Structures | Incomplete
 [Object Oriented Programming in Java](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fobject-oriented-java)| Duke | 6 weeks | 4-6 hours/week | every week | Java Programming: Arrays, Lists, and Structured Data | Incomplete
 [Using Databases with Python](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-databases)| University of Michigan | 3 weeks | 4-8 hours/week | self-paced | Using Python to Access Web Data | Incomplete
-[Data Structures and Performance](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fdata-structures-optimizing-performance)| Duke | 6 weeks | 6-10 hours/week | every week | Object Oriented Programming in Java | Incomplete
+[Using Python for Research](https://www.edx.org/course/using-python-for-research)| Harvard | 12 weeks | 2-4 hours/week | every week | Python Data Strucures | Incomplete
+[Programming for Everybody (Getting Started with Python)](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython)| University of Michigan | 4 weeks | 4-6 hours/week | self-paced | none | Incomplete
 [Java Programming: Principles of Software Design](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming-design-principles) | Duke | 4 weeks | 4-8 hours/week | twice a month | Java Programming: Arrays, Lists, and Structured Data | Incomplete
 [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-data-visualization) | University of Michigan | 2 weeks | 4-6 hours/week | self-paced | Using Databases with Python | Incomplete
 [Java Programming: Build a Recommendation System](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming-recommender) | Duke | 4 weeks | 3-6 hours/week | once a month | Java Programming: Principles of Software Design | Incomplete
@@ -88,3 +89,14 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Linux Command Line Basics](https://imp.i115008.net/linux-command-line-basics) | Udacity | 1 week | 5 hours/week | self-paced | none | Incomplete
 [The Unix Workbench](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix) | JHU | 4 weeks | 4 hours/week | once a month | none | Incomplete
+
+## Cyber Security
+
+Courses | School | Duration | Effort | Frequency | Prerequisites | Status
+:-- | :--: | :--: | :--: | :--: | :--: | :--:
+[Cyber Security Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals) | RIT | 8 week | 10 hours/week | self-paced | Linux Command Line Basics | Incomplete
+[Computer Forensics](https://www.edx.org/course/computer-forensics) | RIT | 8 week | 10 hours/week | self-paced | Cyber Security Fundamentals | Incomplete
+[Risk Management](https://www.edx.org/course/cybersecurity-risk-management) | RIT | 8 week | 10 hours/week | Computer Forensics | none | Incomplete
+[Network Security](https://www.edx.org/course/network-security-2) | RIT | 8 week | 10 hours/week | self-paced | Risk Management | Incomplete
+[Cyber Security Capstone](https://www.edx.org/course/cybersecurity-capstone) | RIT | 8 week | 10 hours/week | self-paced | Network Security | Incomplete
+
