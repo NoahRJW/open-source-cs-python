@@ -1,4 +1,4 @@
-# {EDITED VERSION OF} Open Source Computer Science Python Degree by Forrest Knight
+{EDITED VERSION OF} Open Source Computer Science Python Degree by Forrest Knight
 # The Advanced Open Source Computer Science Degree modified by Noah Wilson
 # Make a fork and use the status to keep track of your progress
 
